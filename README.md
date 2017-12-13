@@ -2,6 +2,7 @@
 by Eakalak Suthampan
 April 2017 - December 2017
 # Projects
+Make Predictive Models
 - Titanic Survival Exploration
 - Predicting Boston Housing Prices
 - Finding Donors for CharityML
