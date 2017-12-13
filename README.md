@@ -11,4 +11,4 @@ Make Predictive Models
 - Dog Breed Classifier
 - Capstone Project
 # About The Program
-[Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+[Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
